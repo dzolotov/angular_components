@@ -14,7 +14,11 @@ dependencies:
       url: https://github.com/dzolotov/angular
       ref: master
       path: angular
-  angular_forms: ^2.1.0
+  angular_forms: 
+    git:
+      url: https://github.com/dzolotov/angular
+      ref: master
+      path: angular_forms
   async: ^2.1.0
   build: '>=0.11.1 <2.0.0'
   build_config: '>=0.2.6 <0.4.1'
