@@ -32,10 +32,7 @@ dependencies:
   observable: ^0.22.2
   protobuf: ^0.13.6
   quiver: '>=0.24.0 <3.0.0'
-  sass_builder: 
-    git:
-      url: https://github.com/dzolotov/sass_builder
-      ref: master
+  sass_builder: any
 
 dev_dependencies:
   path: ^1.6.1
